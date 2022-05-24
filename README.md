@@ -1,3 +1,4 @@
 # QR_Stuff
-Change IP in Connection.java
-Change IP in network_security_config.xml
+1. Change IP in Connection.java
+
+2. Change IP in network_security_config.xml
