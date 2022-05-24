@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New_QR_Stuff</string>
+    <string name="suruulik_sahadatnama">sürüjilik\nşahadatnama</string>
+    <string name="bellige_alynan_guwanama">Bellige alynan\nGüwänama</string>
+    <string name="gurat_haty">Gurat haty</string>
+    <string name="surujilik_sahadatnamasy">Sürüjilik\nŞahadatnamasy</string>
+    <string name="guratlyk_haty">Guratlyk Haty</string>
+</resources>
